@@ -20,7 +20,7 @@ use Thunder\Shortcode\Shortcode\ShortcodeInterface;
 Event::addListener('onShortcodesInitialized', function () {
 
     // Shortcode: [php] echo "Hello World"; [/php]
-    Content::shortcode()->addHandler('php', function(ShortcodeInterface $s) {
+    Entries::shortcode()->addHandler('php', function(ShortcodeInterface $s) {
         ob_start();
         eval($s->getContent());
         return ob_get_clean();
