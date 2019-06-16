@@ -1,6 +1,6 @@
 # PHP Embed Plugin for [Flextype](http://flextype.org/)
-![version](https://img.shields.io/badge/version-1.0.2-brightgreen.svg?style=flat-square)
-![Flextype](https://img.shields.io/badge/Flextype-0.8.3-green.svg?style=flat-square)
+![version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square)
+![Flextype](https://img.shields.io/badge/Flextype-0.9.0-green.svg?style=flat-square)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 PHP Embed plugin allows you to embed php code into your page.
@@ -16,8 +16,12 @@ Unzip plugin to the folder `/site/plugins/`
 
 ## Settings
 
-```yaml
-enabled: true # or `false` to disable the plugin
+enabled: true or false to disable the plugin
+
+```json
+{
+    "enabled": true
+}
 ```
 
 ## License
