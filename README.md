@@ -1,3 +1,5 @@
+![](preview.jpg)
+
 # PHP Embed Plugin for [Flextype](http://flextype.org/)
 
 ![](https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version) ![](https://img.shields.io/badge/Flextype-0.9.3-green.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
