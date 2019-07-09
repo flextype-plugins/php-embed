@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-PHP Embed plugin allows you to embed php code into your page.
+PHP Embed plugin for Flextype allows you to embed php code into your page.
 
 ## Installation
 Unzip plugin to the folder `/site/plugins/`
