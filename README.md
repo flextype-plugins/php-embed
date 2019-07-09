@@ -1,6 +1,6 @@
 # PHP Embed Plugin for [Flextype](http://flextype.org/)
 
-[img]https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version[/img] [img]https://img.shields.io/badge/Flextype-0.9.3-green.svg[/img] [img]https://img.shields.io/badge/license-MIT-blue.svg[/img]
+![](https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version) ![](https://img.shields.io/badge/Flextype-0.9.3-green.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 PHP Embed plugin allows you to embed php code into your page.
 
