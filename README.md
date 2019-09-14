@@ -1,7 +1,7 @@
 ![](https://i.imgsafe.org/51/51b3ecba0a.png)
 
 <p align="center">
-<a href="https://github.com/flextype-plugins/php-embed/releases"><img alt="Version" src="https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/Flextype-0.9.3-blue.svg" alt="Flextype"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> <a href="https://github.com/flextype-plugins/php-embed"><img src="https://img.shields.io/github/downloads/flextype-plugins/php-embed/total.svg?colorB=blue" alt="Total downloads"></a> 
+<a href="https://github.com/flextype-plugins/php-embed/releases"><img alt="Version" src="https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/Flextype-0.9.4-blue.svg" alt="Flextype"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> <a href="https://github.com/flextype-plugins/php-embed"><img src="https://img.shields.io/github/downloads/flextype-plugins/php-embed/total.svg?colorB=blue" alt="Total downloads"></a>
 </p>
 
 ## Introduction
@@ -21,9 +21,7 @@ Display: Hello World
 enabled: true or false to disable the plugin
 
 ```json
-{
-    "enabled": true
-}
+enabled: true
 ```
 
 ## License

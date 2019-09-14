@@ -1,0 +1,10 @@
+name: PHP Embed
+version: 1.2.0
+description: PHP Embed plugin allows you to embed php code into your page.
+author:
+  name: Sergey Romanenko
+  email: awilum@yandex.ru
+  url: http://flextype.org
+homepage: https://github.com/flextype-plugins/php-embed
+bugs: https://github.com/flextype-plugins/php-embed/issues
+license: MIT
