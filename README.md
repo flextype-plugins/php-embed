@@ -1,10 +1,8 @@
-![](https://i.imgsafe.org/51/51b3ecba0a.png)
+# PHP Embed Plugin for [Flextype](http://flextype.org/)
+![version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg?style=flat-square "Version")
+![Flextype](https://img.shields.io/badge/Flextype-0.9.6-green.svg?style=flat-square "Flextype Version")
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/flextype-plugins/php-embed/blob/master/LICENSE.txt)
 
-<p align="center">
-<a href="https://github.com/flextype-plugins/php-embed/releases"><img alt="Version" src="https://img.shields.io/github/release/flextype-plugins/php-embed.svg?label=version"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/Flextype-0.9.4-blue.svg" alt="Flextype"></a> <a href="https://github.com/flextype/flextype"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a> <a href="https://github.com/flextype-plugins/php-embed"><img src="https://img.shields.io/github/downloads/flextype-plugins/php-embed/total.svg?colorB=blue" alt="Total downloads"></a>
-</p>
-
-## Introduction
 PHP Embed plugin for [Flextype](http://flextype.org) allows you to embed php code into your page.
 
 ## Installation
@@ -20,7 +18,7 @@ Display: Hello World
 ## Settings
 enabled: true or false to disable the plugin
 
-```json
+```yaml
 enabled: true
 ```
 
