@@ -1,11 +1,11 @@
 name: PHP Embed
-version: 1.3.0
+version: 1.4.0
 icon: fab fa-php
 description: PHP Embed plugin allows you to embed php code into your page.
 author:
   name: Sergey Romanenko
   email: awilum@yandex.ru
-  url: http://flextype.org
+  url: https://flextype.org
 homepage: https://github.com/flextype-plugins/php-embed
 bugs: https://github.com/flextype-plugins/php-embed/issues
 license: MIT
