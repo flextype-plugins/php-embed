@@ -17,7 +17,7 @@ use Thunder\Shortcode\ShortcodeFacade;
 use Thunder\Shortcode\Shortcode\ShortcodeInterface;
 
 // Shortcode: [php] echo "Hello World"; [/php]
-$flextype->container('shortcode')->addHandler('php', function (ShortcodeInterface $s) {
+flextype('shortcode')->addHandler('php', function (ShortcodeInterface $s) {
     ob_start();
     eval($s->getContent());
     return ob_get_clean();
