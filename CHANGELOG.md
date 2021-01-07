@@ -1,3 +1,6 @@
+# v1.12.0, 2021-01-07
+* Update code base for new Icon 2.0.0
+
 # v1.11.0, 2021-01-03
 * Updates for Flextype 0.9.15
 

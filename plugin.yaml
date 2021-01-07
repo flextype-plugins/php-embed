@@ -1,6 +1,8 @@
 name: PHP Embed
-version: 1.11.0
-icon: fab fa-php
+version: 1.12.0
+icon:
+  name: php
+  set: "fontawesome|brands"
 description: PHP Embed plugin allows you to embed php code into your page.
 author:
   name: Sergey Romanenko
